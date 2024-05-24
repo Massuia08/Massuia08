@@ -3,7 +3,9 @@
 Meu nome é Amanda Massuia
 
 -Eu sou  Amanda! 
+
 -Sou estudande do Alura.
+
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ### Para entrar em contato comigo
@@ -12,5 +14,4 @@ Meu nome é Amanda Massuia
 
 @Massuia08
 
-![]([https://media.tenor.com/F_x67mGv9zwAAAAi/spider-man.gif)
-
+![]([https://media1.tenor.com/m/1RTsNlkmrcIAAAAC/spider-man-thumbs-up-spider-man3thumbs-up.gif)
