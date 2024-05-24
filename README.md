@@ -14,4 +14,4 @@ Meu nome é Amanda Massuia
 
 @Massuia08
 
-![]([https://media1.tenor.com/m/1RTsNlkmrcIAAAAC/spider-man-thumbs-up-spider-man3thumbs-up.gif)
+![](https://media1.tenor.com/m/RpNXLtq7gMEAAAAC/spider-man-see-ya.gif)
